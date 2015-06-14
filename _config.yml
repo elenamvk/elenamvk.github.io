@@ -29,11 +29,13 @@ people:
   position: UXer and Web Devver
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: http://twitter.com/elenamvk
+    - title: behance
+      url: http://behance.com/elenamvk
+    - title: github
+      url: http://github.com/elenamvk
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/elenasanna
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
