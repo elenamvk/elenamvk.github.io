@@ -177,7 +177,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    /*color: #{{ site.color.primary }};*/
+    color: #FFFFF;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -340,10 +341,18 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+section h4.section-subheading {
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 @media(min-width:768px) {
-    section {
+/*    section {
         padding: 150px 0;
-    }
+    }*/
 }
 
 .service-heading {
@@ -636,6 +645,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
+    max-width: 200px;
     border: 7px solid #fff;
 }
 
@@ -664,56 +674,6 @@ section#contact .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
-    margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-    padding: 20px;
-}
-
-section#contact .form-group input.form-control {
-    height: auto;
-}
-
-section#contact .form-group textarea.form-control {
-    height: 236px;
-}
-
-section#contact .form-control:focus {
-    border-color: #{{ site.color.primary }};
-    box-shadow: none;
-}
-
-section#contact::-webkit-input-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-moz-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact::-moz-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-ms-input-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
 section#contact .text-danger {
     color: #e74c3c;
 }
@@ -740,6 +700,7 @@ footer ul.quicklinks {
 
 ul.social-buttons {
     margin-bottom: 0;
+
 }
 
 ul.social-buttons li a {
@@ -755,6 +716,7 @@ ul.social-buttons li a {
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+
 }
 
 ul.social-buttons li a:hover,
@@ -861,4 +823,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+.row-me {
+    text-align: center;
+}
+
+.col-sm-4 {
+    text-align: center;
 }

@@ -1,5 +1,5 @@
 # Site settings
-title: Big about cakes and code
+title: Of sketching and cakes
 email: elena.sanna.mvk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -25,8 +25,8 @@ color:
 people:
 
 - name: Elena Mvk
-  pic: 2
-  position: UXer and Web Devver
+  pic: 1
+  position: I moved to England during my gap year and after seven month of learning to perfect the perfect flat white I decided I needed to pursue a different challenge. I always had an interest for development - so decided to enrol in the General Assembly Web Development Immersive course to complete my previous experience in Information Architecture and User Experience. I now find myself a budding developer with a fair amount of google-fu knowledge under my belt; two web app already deployed and a much better understanding of how much distance a good User Experience-er needs to bridge the gap between user needs and coding abilities. This being said my learning curve is just at the beginning and I hope to further my self-education under Agile wings and senior colleagues.
   social:
     - title: twitter
       url: http://twitter.com/elenamvk
@@ -41,8 +41,10 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/elenamvk
-  - title: Behance
+  - title: behance
     url: http://behance.com/elenamvk
   - title: github
     url: http://github.com/elenamvk
+  - title: linkedin
+    url: https://www.linkedin.com/in/elenasanna
 
