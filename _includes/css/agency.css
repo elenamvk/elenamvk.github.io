@@ -267,6 +267,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
+    margin: 20px;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
@@ -284,6 +285,9 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: white;
+    color: black;
+    padding: 5px;
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
