@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: CoffeeShop App
+subtitle: Second project at General Assembly
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -8,8 +8,11 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: General Assembly
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A social network for people looking for a friendly coffeeshop with wifi on the go. Devise/oauth, carrierwave, google APIs and autocomplete, cancancan, act as commentable, user ratings, Rails app, haml and sass (bourbon).
+github: github.com/elenamvk/wdi_project_2
+heroku: desolate-scrubland-1261.herokuapp.com
 
 ---
+

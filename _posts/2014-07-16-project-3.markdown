@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: TourCouch App
+subtitle: Final project at General Assembly
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -8,8 +8,10 @@ img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: General Assembly
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: TourCouch is the network for bands on tour that want to stay with locals and for discreet locals with a couch to spare. 
+github: github.com/elenamvk/final_prj
+heroku: mighty-everglades-9747.herokuapp.com/
 
 ---
