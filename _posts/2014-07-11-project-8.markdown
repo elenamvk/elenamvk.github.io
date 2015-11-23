@@ -1,0 +1,15 @@
+---
+title: Ducati shields
+subtitle: design
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: bike.png
+thumbnail: bike-thumbnail.png
+alt: image-alt
+project-date: July 2014
+client: private
+category: Graphic stuff 
+description: Freelancing illustration #2 
+deployed: <a href="https://www.behance.net/gallery/18053375/Ducati-customized-designs-Rugby-teams" target="_blank">Read more on Behance</a>
+---

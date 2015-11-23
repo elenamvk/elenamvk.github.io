@@ -1,0 +1,15 @@
+---
+title: SF cover
+subtitle: design
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: iphone.png
+thumbnail: iphone-thumbnail.png
+alt: image-alt
+project-date: June 2014
+client: private
+category: Graphic stuff 
+description: Freelancing illustration #1 
+deployed: <a href="https://www.behance.net/gallery/17928577/Stade-Francais-Iphone-Cover" target="_blank">Read more on Behance</a>
+---

@@ -1,0 +1,15 @@
+---
+title: Comics Cover
+subtitle: design
+layout: default
+modal-id: 9
+date: 2014-07-10
+img: bvs.png
+thumbnail: bvs-thumbnail.png
+alt: image-alt
+project-date: July 2014
+client: private
+category: Graphic stuff 
+description: Mesteri D'Arte Final Project 
+deployed: <a href="https://www.behance.net/gallery/18049997/a-Fanart-Marvel-style-cover-" target="_blank">Read more on Behance</a>
+---
