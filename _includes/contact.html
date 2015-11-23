@@ -3,7 +3,13 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Fancy a chat?</h2>
-                <h3 class="section-subheading text-muted">Drop me a line through one of the fancy buttons below!</h3>
+                <h3 class="section-subheading text-muted"><a href="mailto:elena.sanna.mvk@gmail.com?Subject=Hello" target="_top">Get in touch</a> or see what I've been up to on:</h3>
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </div>

@@ -9,9 +9,8 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: e-xtrategy
-category: User Experience
+category: User Experience 
 description: Amatori Booking - restyling, redesigning
-stored: www.behance.net/gallery/17935527/Amatori-Booking-restyling-redesigning
-deployed: 
+deployed: <a href="http://www.behance.net/gallery/17935527/Amatori-Booking-restyling-redesigning">Read more on Behance</a>
 
 ---
