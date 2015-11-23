@@ -179,6 +179,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     /*color: #{{ site.color.primary }};*/
     color: #FFFFF;
+    padding: 9px 10px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -325,6 +326,8 @@ header .intro-text .intro-heading {
         line-height: 75px;
     }
 }
+
+
 
 section {
     padding: 100px 0;

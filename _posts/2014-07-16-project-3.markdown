@@ -11,6 +11,6 @@ project-date: April 2014
 client: General Assembly
 category: Web Development
 description: TourCouch is the network for bands on tour that want to stay with locals and for discreet locals with a couch to spare. 
-deployed: <a href="http://mighty-everglades-9747.herokuapp.com/">demo</a> and <a href="http://github.com/elenamvk/final_prj">process</a>
+deployed: <a href="http://mighty-everglades-9747.herokuapp.com/" target="_blank">demo</a> and <a href="http://github.com/elenamvk/final_prj" target="_blank">process</a>
 
 ---

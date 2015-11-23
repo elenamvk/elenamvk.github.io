@@ -13,7 +13,7 @@ category: Web Development
 description: A social network for people looking for a friendly coffeeshop with wifi on the go. Devise/oauth, carrierwave, google APIs and autocomplete, cancancan, act as commentable, user ratings, Rails app, haml and sass (bourbon).
 github: github.com/elenamvk/wdi_project_2
 heroku: desolate-scrubland-1261.herokuapp.com
-deployed: <a href="http://desolate-scrubland-1261.herokuapp.com/">demo</a> and <a href="http://github.com/elenamvk/wdi_project_2">process</a>
+deployed: <a href="http://desolate-scrubland-1261.herokuapp.com/" target="_blank">demo</a> and <a href="http://github.com/elenamvk/wdi_project_2" target="_blank">process</a>
 
 
 ---

@@ -13,6 +13,6 @@ category: Web Development
 description: A Music self-publishing site that allows DJs to log-in (devise), upload songs they produced (carrierwave, html5), express the individual character of the musicians through the design of icons and song covers (imagemaick), take feedback (act_as_commentable). Done on rails.
 github: https://github.com/elenamvk/wdi_project1
 heroku:
-deployed: <a href="https://github.com/elenamvk/wdi_project1">process</a>
+deployed: <a href="https://github.com/elenamvk/wdi_project1" target="_blank">process</a>
 
 ---
