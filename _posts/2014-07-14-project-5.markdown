@@ -12,7 +12,7 @@ client: e-xtrategy
 category: IA UX
 description: Unione Sarda sponsors Pagine Sarde - the website version of the local yellow pages, a directory of sardinian businesses, organized by category, and in which advertising is sold. Restyling, redesigning, reorganizing.
 stored: www.behance.net/gallery/18557879/Pagine-Sarde-restyling-redesigning-reorganizing
-deployed: <a href="www.behance.net/gallery/18557879/Pagine-Sarde-restyling-redesigning-reorganizing" target="_blank">Read more on Behance</a>
+deployed: <a href="https://www.behance.net/gallery/18557879/Pagine-Sarde-restyling-redesigning-reorganizing" target="_blank">Read more on Behance</a>
 
 
 ---
