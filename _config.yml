@@ -2,7 +2,7 @@
 title: Of sketching and cakes
 email: elena.sanna.mvk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Elenamvk's portfolio/website - jr web dev wit a passion for breakfast food, rails, ux and illustration.
+  Elenamvk's portfolio/website - jr web dev wit a passion for food, code and ux.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: elenamvk
